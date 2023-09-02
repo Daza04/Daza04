@@ -1,7 +1,7 @@
 Hi 👋 My name is JHOJAN DAZA
 ============================
 
-PROYECTOD DE SOFTWARE
+PROYECTO DE SOFTWARE
 ---------------------
 
 * 🌍  I'm based in M
